@@ -1,7 +1,7 @@
 Index: b/atinout/Makefile
 ===================================================================
---- a/atinout/Makefile
-+++ b/atinout/Makefile
+--- a/Makefile
++++ b/Makefile
 @@ -8,35 +8,11 @@ CFLAGS	= -W -Wall -Wextra -Werror \
  	-g
  LDFLAGS =
